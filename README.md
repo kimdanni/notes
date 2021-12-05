@@ -1,2 +1,2 @@
-# presentation
-발표자료 모음
+# notes
+강의 듣고 메모한것들
